@@ -5,7 +5,7 @@
   "/api/hello": "pages/api/hello.js",
   "/convertHtmlToReact": "pages/convertHtmlToReact.html",
   "/": "pages/index.html",
-  "/javascript": "pages/javascript.html",
   "/json": "pages/json.html",
+  "/javascript": "pages/javascript.html",
   "/404": "pages/404.html"
 }
