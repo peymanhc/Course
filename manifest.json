@@ -1,0 +1,32 @@
+{
+  "short_name": "Root Finder",
+  "name": "Find holy books words roots",
+  "start_url": "./",
+  "scope": ".",
+  "app_name": "Root Finder",
+  "description": "Find holy books words roots",
+  "icons": [{
+          "src": "./icons/icon96x96.png",
+          "sizes": "96x96",
+          "type": "image/x-icon"
+      },
+      {
+          "src": "./icons/icon144x144.png",
+          "type": "image/png",
+          "sizes": "144x144"
+      },
+      {
+          "src": "./icons/icon192x192.png",
+          "type": "image/png",
+          "sizes": "192x192"
+      },
+      {
+          "src": "./icons/icon512x512.png",
+          "type": "image/png",
+          "sizes": "512x512"
+      }
+  ],
+  "display": "fullscreen",
+  "theme_color": "white",
+  "background_color": "white"
+}
