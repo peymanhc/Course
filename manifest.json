@@ -1,9 +1,9 @@
 {
-  "short_name": "Root Finder",
+  "short_name": "Peymanhc courses",
   "name": "Find holy books words roots",
   "start_url": "./",
   "scope": ".",
-  "app_name": "Root Finder",
+  "app_name": "Peymanhc courses",
   "description": "Find holy books words roots",
   "icons": [{
           "src": "./icons/icon96x96.png",
